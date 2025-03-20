@@ -14,8 +14,8 @@ This project allows users to order coffee, process payments, and manage resource
 - **Tkinter (GUI Framework)**  
 
 ## 📦 Installation  
-1. **Clone the repository**  
-  • **git clone: https://github.com/asha3864/-Coffee-Machine-GUI/tree/main**
+**1. Clone the repository**  
+ ** • git clone: https://github.com/asha3864/-Coffee-Machine-GUI/tree/main**
   • **cd coffee-machine-gui**
 
    
