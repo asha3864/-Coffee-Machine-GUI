@@ -15,7 +15,7 @@ This project allows users to order coffee, process payments, and manage resource
 
 ## 📦 Installation  
 **1. Clone the repository**  
- ** • git clone: https://github.com/asha3864/-Coffee-Machine-GUI/tree/main**
+  • git clone: https://github.com/asha3864/-Coffee-Machine-GUI/tree/main
   • **cd coffee-machine-gui**
 
    
