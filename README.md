@@ -19,7 +19,7 @@ This project allows users to order coffee, process payments, and manage resource
   • cd coffee-machine-gui
 
    
-🏆 Usage
+## 🏆 Usage
 • Run the script
 • Select your coffee
 • Enter the payment amount
